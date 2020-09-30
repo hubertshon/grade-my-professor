@@ -1,0 +1,6 @@
+[submodule "rate-my-professor-frontend"]
+	path = rate-my-professor-frontend
+	url = https://github.com/Stratos-Chen/rate-my-professor-frontend
+[submodule "express-rate-my-prof"]
+	path = express-rate-my-prof
+	url = https://github.com/hubertshon/express-rate-my-prof
